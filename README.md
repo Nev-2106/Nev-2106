@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Nev-2106
 - 👀 I’m interested in developing softwares and programming robots
 - 🌱 I’m currently learning Python, Javascript, HTML, CSS and C++
-- 💞️ I’m looking to collaborate on Making robots
-- 📫 How to reach me : @nev_2106 on instagram
+- 💞️ I’m looking to collaborate on Making robots,AI machines and Semiconductor devices
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Strive to survive and become better 
+- ⚡ Accept everthing just the way it is - Miyamoto Mushashi 
 
 <!---
 Nev-2106/Nev-2106 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
