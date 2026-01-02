@@ -5,6 +5,7 @@ I work with software, robotics, and emerging AI systems.
 Focused on building machines that think, move, and scale.
 
 Long-term goal: create systems that change how the world works.
+
 Entrepreneur in the making.
 
 <!---
